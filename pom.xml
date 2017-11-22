@@ -9,15 +9,15 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
 
-    <!--properties>
-        <start-class>com.targetlabs.rest.config.Application</start-class>
+    <properties>
+        <start-class>com.testing.platform.config.Application</start-class>
     </properties>
 
     <modules>
+        <module>SessionService</module>
+        <module>CustomerService</module>
         <module>Protocol</module>
-        <module>Service</module>
-        <module>Datalayer</module>
         <module>Deployment</module>
-    </modules-->
+    </modules>
 
 </project>

@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/testingplatform.iml" filepath="$PROJECT_DIR$/testingplatform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CustomerService/CustomerService.iml" filepath="$PROJECT_DIR$/CustomerService/CustomerService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Deployment/Deployment.iml" filepath="$PROJECT_DIR$/Deployment/Deployment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Protocol/Protocol.iml" filepath="$PROJECT_DIR$/Protocol/Protocol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SessionService/SessionService.iml" filepath="$PROJECT_DIR$/SessionService/SessionService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform-services-builder.iml" filepath="$PROJECT_DIR$/platform-services-builder.iml" />
     </modules>
   </component>
 </project>
