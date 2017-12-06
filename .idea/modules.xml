@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CustomerService/CustomerService.iml" filepath="$PROJECT_DIR$/CustomerService/CustomerService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntegrationServices/AuthorizationService/AuthorizationService.iml" filepath="$PROJECT_DIR$/IntegrationServices/AuthorizationService/AuthorizationService.iml" />
       <module fileurl="file://$PROJECT_DIR$/Deployment/Deployment.iml" filepath="$PROJECT_DIR$/Deployment/Deployment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntegrationServices/IntegrationServices.iml" filepath="$PROJECT_DIR$/IntegrationServices/IntegrationServices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntegrationServices/IntegrationUserService/IntegrationUserService.iml" filepath="$PROJECT_DIR$/IntegrationServices/IntegrationUserService/IntegrationUserService.iml" />
       <module fileurl="file://$PROJECT_DIR$/Protocol/Protocol.iml" filepath="$PROJECT_DIR$/Protocol/Protocol.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SessionService/SessionService.iml" filepath="$PROJECT_DIR$/SessionService/SessionService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InternalServices/SessionService/SessionService.iml" filepath="$PROJECT_DIR$/InternalServices/SessionService/SessionService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InternalServices/Customerservice/platform-customer-service.iml" filepath="$PROJECT_DIR$/InternalServices/Customerservice/platform-customer-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InternalServices/platform-internal-service-builder.iml" filepath="$PROJECT_DIR$/InternalServices/platform-internal-service-builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/platform-services-builder.iml" filepath="$PROJECT_DIR$/platform-services-builder.iml" />
     </modules>
   </component>
